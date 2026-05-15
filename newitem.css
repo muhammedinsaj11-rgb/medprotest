@@ -1,0 +1,160 @@
+body{margin: 0%;
+
+     }
+
+
+    .newitems{display: flex;
+              margin-left: 30px;
+    
+    }
+
+    .h5{
+        margin-top: 30px;
+        margin-left: 30px;
+        color:  rgb(4, 4, 105);
+        font-size: 20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+.newitems a{text-decoration: none;
+             color: aliceblue;
+             font-family:Verdana, Geneva, Tahoma, sans-serif;
+                           border-radius: 10px;
+                          background-color:  rgba(13, 13, 66, 0.893);
+                           color:  rgb(249, 249, 249);
+                           font-weight: bold;
+            }
+
+    .newitems button{
+              margin-top: 30px;
+              margin-left: 1100px;
+              width: 100px;
+              height: 30px;
+               font-size: 12px;
+                          font-family:Verdana, Geneva, Tahoma, sans-serif;
+                           border-radius: 10px;
+                          background-color:  rgba(13, 13, 66, 0.893);
+                           color:  rgb(249, 249, 249);
+                           font-weight: bold;
+    
+    }
+
+      .newitems button:hover{background-color: rgba(0, 6, 88, 0.651);
+                   color:  rgb(255, 255, 255);}
+
+
+
+
+
+      .inpuut{width: 800px;
+            height: 500px;
+            border-radius: 15px;
+            background-color:rgba(255, 255, 255, 0.83);
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.637);
+            display: flex;}
+
+            .line1{margin-top: 50px;
+                  }
+             .line2{margin-top: 50px;}
+
+           .line1  label{ margin-left: 50px;}
+             .line2  label{ margin-left: 30px;}
+
+.line1 input{width: 220px;
+            height: 25px;
+            color:  rgb(13, 13, 66);
+            font-size: 13px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+            border-radius: 10px;
+            background-color: #f1f1f143;
+            font-size: 16px;
+                                   
+            }
+
+ 
+.line1 textarea{width: 220px;
+            height: 30px;
+            color:  rgb(13, 13, 66);
+            border-radius: 10px;
+            background-color: #f1f1f143;
+            font-size: 16px;
+        }
+           
+
+             
+.line2 input{width: 220px;
+             height: 25px;
+             color:  rgb(13, 13, 66);          
+             border-radius: 10px;
+            background-color: #f1f1f143;
+            font-size: 16px;
+                        }
+
+                          select{width: 225px;
+                            color:  rgb(13, 13, 66);
+                          height: 30px;
+                          font-size: 16px;
+                          font-family:Verdana, Geneva, Tahoma, sans-serif;
+                           border-radius: 10px;
+                          background-color: #f1f1f143;
+                         
+                        }
+                          
+                  label{ color:  rgb(4, 0, 79);
+                   
+                                      font-weight: bold;
+                                       font-size: 13px;
+                                     font-family:Verdana, Geneva, Tahoma, sans-serif;}         
+             
+
+     .endr{margin-top: 100px;}       
+
+
+    
+
+                   .barcode input{width: 160px;
+                   margin-left: 20px;
+                   margin-top: 20px;
+                }
+
+                .barcode button{margin-left: 10px;
+                                height: 30px;
+                                font-size: 12px;
+                          font-family:Verdana, Geneva, Tahoma, sans-serif;
+                           border-radius: 10px;
+                          background-color:  rgba(13, 13, 66, 0.893);
+                           color:  rgb(249, 249, 249);
+                           font-weight: bold;
+                }
+
+                .barcode button:hover{background-color: rgba(0, 6, 88, 0.651);
+                   color:  rgb(255, 255, 255);}
+
+      .expire1{margin-top: 100px;}             
+
+
+      .AddItem{margin-left: 280px;
+              width: 100px;
+               background-color:  rgba(13, 13, 66, 0.893);
+                           color:  rgb(249, 249, 249);
+                           height: 40px;
+    }
+
+    .Reset{margin-right:240px;
+        margin-top: 2px;
+              width: 100px;
+               background-color:  rgba(13, 13, 66, 0.893);
+                           color:  rgb(249, 249, 249);
+                           height: 40px;
+    }
+
+     .Reset:hover{background-color: rgba(0, 6, 88, 0.651);
+                   color:  rgb(255, 255, 255);}
+
+     
+     .AddItem:hover{background-color: rgba(0, 6, 88, 0.651);
+                   color:  rgb(255, 255, 255);}       
+                   
+                   
+                .Reset a{text-decoration: none;
+                           color: aliceblue;}
